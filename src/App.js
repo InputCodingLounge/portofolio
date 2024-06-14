@@ -3,6 +3,7 @@ import './App.css';
 import React, { useState, useEffect, createContext } from 'react';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Navbar from './components/navbar';
+import Footer from './components/footer';
 
 export const DarkModeContext = createContext();
 
@@ -30,8 +31,10 @@ function App() {
         <Router>
           <Navbar/>
           <Routes>
-            <Route path='/' element={<Home/>}/>
+       
           </Routes>
+
+          <Footer/>
         </Router>
       </div>
     </DarkModeContext.Provider>
