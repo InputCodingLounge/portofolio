@@ -7,7 +7,6 @@ import { DarkModeContext } from '../App';
 const navigation = [
   { name: 'Profile', href: './midle',  },
   { name: 'Projects', href: '/projects',  },
-  { name: 'Videos', href: '/youtube', },
 ];
 
 function classNames(...classes) {
@@ -224,5 +223,3 @@ export default function Example() {
     </Disclosure>
   );
 }
-
-                    
