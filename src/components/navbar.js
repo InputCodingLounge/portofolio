@@ -20,11 +20,10 @@ export default function Example() {
   const [isLinkedinScaled, setIsLinkedinScaled] = useState(false);
   const [isCallScaled, setIsCallScaled] = useState(false);
   const [isEmailScaled, setIsEmailScaled] = useState(false);
-  const [isYoutubeScaled, setIsYoutubeScaled] = useState(false);
 
-  // Handlers for mouse enter and leave
-  const handleYoutubeMouseEnter = () => setIsYoutubeScaled(true);
-  const handleYoutubeMouseLeave = () => setIsYoutubeScaled(false);
+
+ 
+
   const handleGithubMouseEnter = () => setIsGithubScaled(true);
   const handleGithubMouseLeave = () => setIsGithubScaled(false);
   const handleLinkedinMouseEnter = () => setIsLinkedinScaled(true);
