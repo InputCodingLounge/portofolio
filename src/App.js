@@ -33,6 +33,7 @@ function App() {
           <Navbar/>
           <Routes>
             <Route path="/" element={<Midle />} />
+            <Route path="/midle" element={<Midle />} />
           </Routes>
           <Footer/>
         </Router>

@@ -14,7 +14,9 @@ export default function Example() {
                 <figure className="mt-1">
                     <img
                         className="rounded-full mx-auto w-40 h-40 sm:w-60 sm:h-60 xl:h-70 xl:w-70 animate-slideInBottom"
-                        src="https://avatars.githubusercontent.com/u/100606294?v=4"
+
+                        //change picture
+                        src="https://firebasestorage.googleapis.com/v0/b/portofolio-b0512.appspot.com/o/porfile%20pic.jpeg?alt=media&token=b28d3740-24c7-4808-a680-7770b994a5d6"
                         alt="Yourname"
                     />
                     <figcaption className="mt-4 flex items-center justify-center space-x-3 text-base">

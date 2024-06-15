@@ -1,0 +1,69 @@
+{
+    "Projects": [
+      {
+        "description": "a long discrionption of your project hsas jash djash djhas jasj hdjash sah j sha sjhd asj djash jas dh aj",
+        "githubUrl": "https://github.com/",
+        "id": 1,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portofolio-b0512.appspot.com/o/pic.png?alt=media&token=be306b7c-e7ad-442a-9693-60f334d8d0ac",
+        "info": "My first portfolio with react",
+        "name": "The portofolio with HTML and CSS",
+        "skills": [
+          "HTML",
+          "CSS"
+        ],
+        "url": "https://github.com/InputCodingLounge/portofolio"
+      }
+
+    ],
+
+
+
+
+    "Skills": [
+      {
+        "Icon": "https://firebasestorage.googleapis.com/v0/b/protofolio-44836.appspot.com/o/1174949_js_react%20js_logo_react_react%20native_icon.png?alt=media&token=f0c06ff5-8252-4d93-94eb-c98719c8fd93",
+        "id": 1,
+        "name": "React"
+      },
+      {
+        "Icon": "https://firebasestorage.googleapis.com/v0/b/protofolio-44836.appspot.com/o/wind.png?alt=media&token=a8d1635f-6ef9-44cf-8cdd-a692f54f62c5",
+        "id": 2,
+        "name": "Tailwind CSS"
+      },
+      {
+        "Icon": "https://firebasestorage.googleapis.com/v0/b/protofolio-44836.appspot.com/o/javascript%20(1).png?alt=media&token=5297ffb8-6296-4dd8-b8f0-2d20a1f3a621",
+        "id": 3,
+        "name": "JavaScript"
+      },
+      {
+        "Icon": "https://firebasestorage.googleapis.com/v0/b/protofolio-44836.appspot.com/o/database-storage.png?alt=media&token=31472333-7d0e-4067-9590-6eb91604fe57",
+        "id": 4,
+        "name": "Firebase"
+      },
+      {
+        "Icon": "https://firebasestorage.googleapis.com/v0/b/protofolio-44836.appspot.com/o/html.png?alt=media&token=b1c6ea3e-5c4a-4392-afa4-8f36bd34b1ed",
+        "id": 5,
+        "name": "HTML"
+      },
+      {
+        "Icon": "https://firebasestorage.googleapis.com/v0/b/protofolio-44836.appspot.com/o/css.png?alt=media&token=f7fc9fa6-48fe-4ea0-82b4-a1b18d6817e4",
+        "id": 6,
+        "name": "CSS"
+      },
+      {
+        "Icon": "https://firebasestorage.googleapis.com/v0/b/protofolio-44836.appspot.com/o/bootstrap.png?alt=media&token=71244208-f7e0-4998-8b52-47b6a6cdf553",
+        "id": 7,
+        "name": "Bootstrap"
+      },
+      {
+        "Icon": "https://firebasestorage.googleapis.com/v0/b/protofolio-44836.appspot.com/o/Jquery.png?alt=media&token=b446b2ae-aad3-4fa2-a22b-692c23af3dd3",
+        "id": 8,
+        "name": "Jquery"
+      },
+      {
+        "Icon": "https://firebasestorage.googleapis.com/v0/b/protofolio-44836.appspot.com/o/angularjs.png?alt=media&token=db6a529d-7f49-47c3-bd81-9565deb1912d",
+        "name": "Angular",
+        "id": 9
+      }
+      ]
+  }
