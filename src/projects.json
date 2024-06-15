@@ -6,13 +6,61 @@
         "id": 1,
         "image": "https://firebasestorage.googleapis.com/v0/b/portofolio-b0512.appspot.com/o/pic.png?alt=media&token=be306b7c-e7ad-442a-9693-60f334d8d0ac",
         "info": "My first portfolio with react",
-        "name": "The portofolio with HTML and CSS",
+        "name": "The portofolio with react for youtube",
         "skills": [
           "HTML",
-          "CSS"
+          "CSS",
+          "JAVASCRIPT",
+          "REACT"
+        ],
+        "url": "https://github.com/InputCodingLounge/portofolio"
+      },
+      {
+        "description": "a long discrionption of your project hsas jash djash djhas jasj hdjash sah j sha sjhd asj djash jas dh aj",
+        "githubUrl": "https://github.com/",
+        "id": 2,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portofolio-b0512.appspot.com/o/pic.png?alt=media&token=be306b7c-e7ad-442a-9693-60f334d8d0ac",
+        "info": "My first portfolio with react",
+        "name": "The portofolio with react for youtube",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "REACT"
+        ],
+        "url": "https://github.com/InputCodingLounge/portofolio"
+      },
+      {
+        "description": "a long discrionption of your project hsas jash djash djhas jasj hdjash sah j sha sjhd asj djash jas dh aj",
+        "githubUrl": "https://github.com/",
+        "id": 3,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portofolio-b0512.appspot.com/o/pic.png?alt=media&token=be306b7c-e7ad-442a-9693-60f334d8d0ac",
+        "info": "My first portfolio with react",
+        "name": "The portofolio with react for youtube",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "REACT"
+        ],
+        "url": "https://github.com/InputCodingLounge/portofolio"
+      },
+      {
+        "description": "a long discrionption of your project hsas jash djash djhas jasj hdjash sah j sha sjhd asj djash jas dh aj",
+        "githubUrl": "https://github.com/",
+        "id": 4,
+        "image": "https://firebasestorage.googleapis.com/v0/b/portofolio-b0512.appspot.com/o/pic.png?alt=media&token=be306b7c-e7ad-442a-9693-60f334d8d0ac",
+        "info": "My first portfolio with react",
+        "name": "The portofolio with react for youtube",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "REACT"
         ],
         "url": "https://github.com/InputCodingLounge/portofolio"
       }
+
 
     ],
 
